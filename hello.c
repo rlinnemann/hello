@@ -6,6 +6,7 @@ Date: 201x/xx/xx
 
 int main(void) {
 	printf("Robert Linnemann\n");
+	printf("Electrical Engineering\n");
 	printf("Nicolas Lee Wen Han\n");
 	printf("Computer Engineering\n");
 	return 0;
